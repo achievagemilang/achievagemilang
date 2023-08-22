@@ -3,7 +3,7 @@
 
 - 👨‍💻 My projects portofolio are available at [to-be-added](links.io)
 
-- 📝 I regularly write on my blog [to-be-added](links.io)
+- 📝 I occassionally write on my [medium](https://medium.com/@achievafuturagemilang)
 
 - 💬 Ask me about **mobile development, full stack web development**
 
