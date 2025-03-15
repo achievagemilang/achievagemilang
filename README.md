@@ -11,7 +11,7 @@
 
 Find more about me here: 
 
-🌏 [achievagemilang.live](www.achievagemilang.live) 🌏
+🌏 <a href="https://achievagemilang.live">achievagemilang.live</a> 🌏
 
 ## 🛠️ Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
