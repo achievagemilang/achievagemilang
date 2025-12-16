@@ -7,7 +7,7 @@
 [![Socials](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/achieva.futura)
 [![Visitors](https://komarev.com/ghpvc/?username=achievagemilang&label=Profile%20Views&color=0A66C2&style=for-the-badge)](https://github.com/achievagemilang)
 
-I'm a **Software Engineer**. 
+I do **software engineering**. 
 
 ## 📈 GitHub Stats
 
@@ -18,4 +18,3 @@ I'm a **Software Engineer**.
 
 ## 🏆 Misc
 [![Leetcode Stats](https://leetcard.jacoblin.cool/achievagemilang)](https://leetcode.com/achievagemilang)
-[![trophy](https://github-profile-trophy.vercel.app/?username=achievagemilang&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
