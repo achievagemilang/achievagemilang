@@ -12,8 +12,8 @@ I do **software engineering**.
 ## 📈 GitHub Stats
 
 <a href="https://github.com/achievagemilang">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=achievagemilang&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=achievagemilang&layout=compact&theme=dark&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-ten-snowy-22.vercel.app/api?username=achievagemilang&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-ten-snowy-22.vercel.app/api/top-langs/?username=achievagemilang&layout=compact&theme=dark&langs_count=8"/>
 </a>
 
 ## 🏆 Misc
