@@ -17,5 +17,5 @@ I do **software engineering**.
 </a>
 
 ## 🏆 Misc
-[![Leetcode Stats](https://leetcard.jacoblin.cool/achievagemilang)](https://leetcode.com/u/achievagemilang)
-[![Old Leetcode Stats](https://leetcard.jacoblin.cool/anakilang)](https://leetcode.com/u/anakilang)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/achievagemilang?ext=contest&ext=contest))](https://leetcode.com/u/achievagemilang)
+[![Old Leetcode Stats](https://leetcard.jacoblin.cool/anakilang?ext=heatmap)](https://leetcode.com/u/anakilang)
