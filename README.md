@@ -1,6 +1,6 @@
 # Hi, I'm Cip! 👋🏻
 
-[![Website](https://img.shields.io/badge/AchievaGemilang.live-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://achievagemilang.live)
+[![Website](https://img.shields.io/badge/AchievaGemilang.dev-000000?style=for-the-badge&logo=react&logoColor=61DAFB)](https://achievagemilang.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/achieva-futura-gemilang)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@achievafuturagemilang)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/achieva17_)
